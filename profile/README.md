@@ -17,8 +17,6 @@
   width="20%"
 />
 
-<a target="_blank" href="https://lensgo.ai/?via=new"> 👉 Haga clic aquí para obtener 100 créditos al crear su cuenta LensGo AI !</a>
-
 <p>La creación de contenido visual de alta calidad puede convertirse en un verdadero desafío, especialmente cuando buscamos resultados dinámicos y naturales. En este contexto, Pika Labs se posiciona como una solución innovadora, especializada en generar vídeos realistas directamente desde descripciones textuales. Esta plataforma utiliza inteligencia artificial avanzada, permitiendo obtener resultados significativos en cuestión de minutos, con un rendimiento muy superior frente a herramientas competidoras como LensGo AI o Runway Gen-2.</p>
 
 <h3>Creación dinámica de vídeos a partir de textos</h3>
