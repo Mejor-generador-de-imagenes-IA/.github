@@ -31,6 +31,9 @@
 
 <p>Lo que destaca en Pika Labs es su capacidad para transformar datos textuales sencillos en vídeos convincentes, permitiendo narrativas claras y ofreciendo una experiencia personalizada para el usuario según sus requerimientos específicos.</p>
 
+<a target="_blank" href="https://lensgo.ai/?via=new"> 👉 Haga clic aquí para obtener 100 créditos al crear su cuenta LensGo AI !</a>
+
+
 <h3>Control personalizado de cámara y movimiento</h3>
 
 <p>A diferencia de soluciones más estáticas como Midjourney o DALL·E 3, enfocadas exclusivamente en contenidos visuales fijos, Pika Labs introduce un valor añadido mediante herramientas especializadas que ofrecen un control específico sobre la cámara virtual, los movimientos cinematográficos y los ángulos deseados. Puedes ajustar, por ejemplo:</p>
