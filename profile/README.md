@@ -1,7 +1,7 @@
 <h1>Mejor generador de imágenes IA (Análisis 2025): ¿Cuál es realmente la mejor herramienta?</h1>
 <p><strong>Experto en IA</strong> | <time datetime="2025-04-10">10 Avril, 2025</time></p>
 
-<img src=""
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/339836405/original/0f7a890dcb570533d34f8b8755f50da72b74adbf/generate-customized-images-with-artificial-intelligence.jpg"
   alt="3 estilos gráficos mediante el generador de imágenes de IA de LensGo"
   width="800"
   height="450"
