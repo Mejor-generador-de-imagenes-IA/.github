@@ -75,6 +75,14 @@
 <p>Con estas funcionalidades, Runway Gen-2 se desmarca de alternativas importantes como DALL·E 3 o Pika Labs, ofreciendo una experiencia integral más intuitiva y adaptada a las necesidades reales de producción audiovisual profesional.</p>
 <h2>DALL·E 3: Imágenes creativas generadas por inteligencia artificial</h2>
 
+<img src="https://miro.medium.com/v2/resize:fit:2000/0*Sqx4bm3M1Zt8vrz6"
+  alt="Dall E 3"
+  width="20%"
+/>
+
+<a target="_blank" href="https://lensgo.ai/?via=new"> 👉 Haga clic aquí para obtener 100 créditos al crear su cuenta LensGo AI !</a>
+
+
 <p>DALL·E 3 es la última versión del generador de imágenes de OpenAI que transforma detalladas instrucciones de texto en impactantes visuales. Frente a otras herramientas disponibles en 2025, destaca por su poderosa capacidad interpretativa, siendo capaz de entender descripciones complejas y plasmar claramente conceptos abstractos. Esto representa una evolución significativa frente a generaciones anteriores y alternativas actuales como Midjourney o Leonardo AI.</p>
 
 <h3>Creación visual desde descripciones complejas</h3>
@@ -125,10 +133,19 @@
 <p>Una encuesta realizada entre diseñadores gráficos reveló que el uso de Midjourney permitió reducir hasta un 45% el tiempo en tareas repetitivas de diseño—por ejemplo, al crear variaciones visuales sobre un mismo concepto—, lo que incrementó el rendimiento general y benefició directamente la productividad de los equipos creativos.</p>
 
 <p>Además, Midjourney goza del valor añadido de poder exportar rápidamente sus resultados en formatos listos para incorporarlos en herramientas como Adobe Photoshop e Illustrator, facilitando así aún más la dinámica de trabajo y brindando un flujo constante de creatividad y eficiencia.</p>
+
 <h2>¿Qué es un generador de imágenes IA y cómo funciona?</h2>
+
 <p>Un generador de imágenes IA es una herramienta tecnológica basada en modelos inteligentes que produce imágenes a partir de descripciones textuales o datos visuales proporcionados previamente. Funciona utilizando algoritmos avanzados entrenados con miles de millones de parámetros y datos visuales. Estas IA aprenden patrones, estilos y conceptos visuales para poder interpretar un texto y traducirlo en un contenido gráfico original y coherente. Entre los referentes se encuentran plataformas como DALL·E 3 de OpenAI o Midjourney, que destacan por generar imágenes con un realismo impresionante e inéditas combinaciones visuales.</p>
 
 <h2>LensGo AI: Creación visual potente y sencilla</h2>
+<img src="https://i.ytimg.com/vi/r7B9p1AUwD0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJtPVXw11lMaILobKuth5k7FYnsQ"
+  alt="Lensgo AI"
+  width="20%"
+/>
+
+<a target="_blank" href="https://lensgo.ai/?via=new"> 👉 Haga clic aquí para obtener 100 créditos al crear su cuenta LensGo AI !</a>
+
 <p>LensGo AI es una plataforma innovadora que combina múltiples funcionalidades para crear imágenes y vídeos mediante inteligencia artificial. Con un enfoque sencillo y práctico, LensGo AI facilita la generación de contenido visual desde cero o partiendo de material preexistente, destacándose por ofrecer resultados profesionales en pocos clics. A diferencia de otras herramientas más enfocadas en imágenes estáticas, como Leonardo AI, LensGo se orienta claramente hacia la creación de vídeos dinámicos.</p>
 
 <h3>Generación de imágenes y vídeos desde texto</h3>
