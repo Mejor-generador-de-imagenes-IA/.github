@@ -174,6 +174,9 @@
   <li><strong>Midjourney:</strong> Óptimo para proyectos creativos, conocida por imágenes detalladas y artísticas.</li>
 </ul>
 
+<a target="_blank" href="https://lensgo.ai/?via=new"> 👉 Haga clic aquí para obtener 100 créditos al crear su cuenta LensGo AI !</a>
+
+
 <h3>Leonardo AI y LensGo AI: versatilidad en generación multimedia</h3>
 
 <p>Leonardo AI sobresale especialmente en la edición directa de contenidos visuales, integrando funcionalidades altamente prácticas como la eliminación automática de fondos y edición rápida de entornos visuales. LensGo AI ofrece un punto fuerte en generación de vídeos a partir de textos o imágenes existentes, incluyendo transferencias de estilo y transformaciones innovadoras de imagen a vídeo. Estas plataformas son ideales para usuarios que buscan simplicidad y flexibilidad en formatos multimedia.</p>
@@ -205,6 +208,8 @@
 <p>Leonardo AI representa actualmente una de las plataformas más intuitivas para la creación de arte digital y vídeos mediante inteligencia artificial. Gracias a una interfaz clara y sencilla, usuarios de cualquier nivel pueden transformar ideas básicas en producciones audiovisuales de calidad profesional. Con una calidad visual equiparable a otras herramientas populares como Midjourney o DALL·E 3, Leonardo AI destaca por ser extremadamente amigable con principiantes en el mundo del diseño.</p>
 
 <p>Comparado con sus pares, Leonardo AI se distingue por sintetizar técnicas complejas de diseño en pasos simples. Por ejemplo, frente a Runway Gen-2 o Pika Labs, Leonardo ofrece resultados visuales similares empleando instrucciones mucho más concisas, ahorrando tiempo valioso en proyectos creativos. De acuerdo a usuarios frecuentes, se puede reducir hasta en un 40% el tiempo de producción habitual.</p>
+
+<a target="_blank" href="https://lensgo.ai/?via=new"> 👉 Haga clic aquí para obtener 100 créditos al crear su cuenta LensGo AI !</a>
 
 <h3>Producción audiovisual simplificada</h3>
 
